@@ -6,7 +6,7 @@
 ## Quick Start
 
 ```SH
-$ pip install git+git://github.com/google/chatbase-python.git
+$ pip install git+git://github.com/DightMerc/chatbase-python.git
 ```
 
 ## Account Setup
